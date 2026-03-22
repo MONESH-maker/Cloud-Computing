@@ -22,4 +22,7 @@ The functionality of the storage system was verified by opening the file URLs in
 
 Through this task, important concepts such as cloud storage, buckets, file management, and public access permissions were clearly understood. The task was successfully completed by implementing a working cloud storage solution using Supabase.
 
-https://qwxofefxjbcmrmvtioin.supabase.co/storage/v1/object/public/My_bucket/WhatsApp%20Image%202025-11-15%20at%2018.03.52%20(1).jpeg
+
+
+<img width="1917" height="874" alt="Image" src="https://github.com/user-attachments/assets/650c7ccb-1bb8-4d19-80d6-cb7cd70697e8" />
+<img width="1918" height="957" alt="Image" src="https://github.com/user-attachments/assets/38caf4d6-38e9-4ace-b989-13be3e6e7c02" />
