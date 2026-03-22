@@ -21,3 +21,5 @@ Next, sample files including a PDF document, an image file, and a text file were
 The functionality of the storage system was verified by opening the file URLs in the browser. The successful display of files confirmed that the bucket was properly configured and that access permissions were correctly set.
 
 Through this task, important concepts such as cloud storage, buckets, file management, and public access permissions were clearly understood. The task was successfully completed by implementing a working cloud storage solution using Supabase.
+
+https://qwxofefxjbcmrmvtioin.supabase.co/storage/v1/object/public/My_bucket/WhatsApp%20Image%202025-11-15%20at%2018.03.52%20(1).jpeg
